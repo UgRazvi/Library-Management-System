@@ -1,0 +1,44 @@
+h1 {
+    color: rgb(17, 39, 46);
+    background-color: rgb(80, 193, 149);
+    width: 100%;
+}
+
+::placeholder {
+    padding-left: 100px;
+}
+
+.inp {
+    width: 95%;
+    height: 80%;
+}
+
+table {
+    border-radius: 15px;
+    border: 2px solid black;
+}
+
+td {
+    color: rgb(8, 21, 26);
+}
+
+.cmn_table {
+
+    width: 100%;
+}
+
+body {
+    margin: 0;
+    background: white;
+    font-family: monospace;
+    font-weight: bold;
+}
+
+
+/* *{
+    background: linear-gradient(187, 187, 245);
+
+}
+.cmn_table{
+    background-color:  bisque;
+} */

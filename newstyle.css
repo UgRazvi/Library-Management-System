@@ -1,0 +1,81 @@
+* {
+
+    background: linear-gradient(187, 187, 245);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    /* background-color: black; */
+}
+
+.cmn_body {
+    color: antiquewhite;
+    background-color: black;
+}
+
+.cmn_table {
+    width: 100%;
+    background-color: bisque;
+}
+
+.inp {
+    width: 95%;
+    /* height: 30px; */
+    height: 80%;
+}
+
+.inp:hover {
+    background-color: aquamarine;
+}
+
+.sub-btn {
+    width: 95%;
+    height: 80%;
+}
+
+.sub-btn:hover {
+    background-color: crimson;
+}
+
+::placeholder {
+    font-size: medium;
+    padding-left: 40px;
+}
+
+h1 {
+    background-color: cadetblue;
+    /* color: aquamarine; */
+    color: black;
+}
+
+h2 {
+    background-color: rgb(8, 64, 66);
+    /* color: aquamarine; */
+    color: rgb(255, 251, 251);
+}
+
+h3 {
+    background-color: rgb(8, 64, 66);
+    /* color: aquamarine; */
+    color: rgb(204, 195, 195);
+}
+
+a {
+    color: rgb(4, 5, 29);
+}
+
+a ::after {
+    content: "";
+    color: aqua;
+}
+
+hr {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+table {
+    width: 40%;
+    padding-top: 7px;
+    border-style: double;
+    border: 2;
+
+}
